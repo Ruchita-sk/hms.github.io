@@ -13,7 +13,7 @@ Here's a glimpse into my journey:
 **OVERVIEW:**  
 
 
-*Technical Stack:*  
+*Technical Stack:**  
 
 - *Languages:* C++, Java  
 - *Algorithms:* 
